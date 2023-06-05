@@ -1,0 +1,28 @@
+.plan{
+    width: 80%;
+    height: 450px;
+    border: 2%;
+}
+
+.imgp{
+    text-align: center;
+    margin-left: 55%;
+    box-shadow: 0 2px 25px #0A2D72;
+    
+}
+
+.imgp4{
+    text-align: center;
+    margin-left: 55%;
+    margin-top: 5%;
+    box-shadow: 0 2px 25px #f9b515 ;
+}
+
+
+.imgp5{
+    text-align: center;
+    margin-left: 60%;
+    margin-top: 5%;
+    box-shadow: 0 2px 25px #f9b515 ;
+
+}

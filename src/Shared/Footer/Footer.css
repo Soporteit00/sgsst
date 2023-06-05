@@ -1,0 +1,31 @@
+.footer{
+    background-color:#f9b515  ;
+    box-shadow: 0 2px 15px #0A2D72;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.tf{
+    color:  #0A2D72;
+    font-size: 42px;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.btn{
+    text-align: right;
+    font-size: 275%;
+    color: #0A2D72;
+}
+
+
+.btn1{
+    margin-left: 70%;
+    font-size: 275%;
+    color: #0A2D72;
+}
+
+.btn2{
+    margin-right: 4%;
+    font-size: 275%;
+    color: #0A2D72;
+}
